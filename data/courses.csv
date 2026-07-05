@@ -1,0 +1,7 @@
+course_name,teacher,prerequisites
+ریاضی,sara,
+فیزیک,sara,ریاضی
+شیمی,sara,فیزیک
+برنامه‌نویسی,maryam,
+داده‌کاوی,maryam,برنامه‌نویسی
+معماری کامپیوتر,maryam,برنامه‌نویسی
